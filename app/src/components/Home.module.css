@@ -1,0 +1,10 @@
+.App{
+  text-align: center;
+  color: #157ff5;
+  
+}
+
+.ProductCard{
+  display: flex;
+  flex-wrap: wrap;
+}

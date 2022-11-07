@@ -1,0 +1,25 @@
+.Card{
+  width: 10rem;
+  height: 9.5rem;
+  
+  
+  box-shadow: 5px 5px 5px rgb(71, 71, 71);
+
+  margin: 1rem;
+}
+
+.Name{
+  height: 5px;
+}
+
+.Price{
+  margin-top: 1.5rem;
+/*   border: 1px solid black; */
+}
+
+.Cart{
+  width: 8rem;
+  height: 2rem;
+
+  border-radius: 6px;
+}

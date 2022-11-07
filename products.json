@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "RTX 3090",
+      "price": "$999"
+    },
+    {
+      "id": 2,
+      "name": "Gaming PC",
+      "price": "$1999"
+    },
+    {
+      "id": 3,
+      "name": "Iphone 18",
+      "price": "$5000"
+    },
+    {
+      "id": 4,
+      "name": "RTX 8090",
+      "price": "$4999"
+    }
+  ]
+}
